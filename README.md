@@ -1,4 +1,14 @@
 # pomodoro-timer
+Recordableの次回アップデート時に使用する、ポモドーロタイマー機能 \
+
+## 機能まとめ
+・25分カウント
+・5分休憩（Short break）
+・10~15分休憩（Long break）
+・スタート
+・ストップ
+・タイマーリセット
+
 
 ## Project setup
 ```
