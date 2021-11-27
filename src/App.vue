@@ -1,7 +1,11 @@
 <template>
   <v-app>
     <v-content>
-      <Pomodoro />
+      <v-container>
+        <v-row>
+          <Pomodoro />
+        </v-row>
+       </v-container>
     </v-content>
   </v-app>
 </template>
