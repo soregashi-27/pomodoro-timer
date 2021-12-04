@@ -3,7 +3,9 @@
     <v-content>
       <v-container>
         <v-row>
-          <Pomodoro />
+          <v-col sm="6" offset-sm="3">
+            <Pomodoro />
+          </v-col>
         </v-row>
        </v-container>
     </v-content>
